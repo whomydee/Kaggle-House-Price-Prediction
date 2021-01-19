@@ -1,0 +1,119 @@
+************************************
+MSSubClass is related with: 
+BldgType
+************************************
+BldgType is related with: 
+MSSubClass
+************************************
+OverallQual is related with: 
+YearBuilt
+YearRemodAdd
+TotalBsmtSF
+GrLivArea
+FullBath
+GarageCars
+GarageArea
+************************************
+YearBuilt is related with: 
+OverallQual
+YearRemodAdd
+Foundation
+GarageYrBlt
+GarageCars
+************************************
+YearRemodAdd is related with: 
+OverallQual
+YearBuilt
+GarageYrBlt
+************************************
+Exterior1st is related with: 
+Exterior2nd
+************************************
+Exterior2nd is related with: 
+Exterior1st
+************************************
+ExterQual is related with: 
+BsmtQual
+KitchenQual
+************************************
+Foundation is related with: 
+YearBuilt
+GarageYrBlt
+************************************
+BsmtQual is related with: 
+ExterQual
+KitchenQual
+************************************
+BsmtFinSF1 is related with: 
+TotalBsmtSF
+BsmtFullBath
+************************************
+TotalBsmtSF is related with: 
+OverallQual
+BsmtFinSF1
+1stFlrSF
+************************************
+1stFlrSF is related with: 
+TotalBsmtSF
+GrLivArea
+************************************
+2ndFlrSF is related with: 
+GrLivArea
+HalfBath
+BedroomAbvGr
+TotRmsAbvGrd
+************************************
+GrLivArea is related with: 
+OverallQual
+1stFlrSF
+2ndFlrSF
+FullBath
+BedroomAbvGr
+TotRmsAbvGrd
+************************************
+BsmtFullBath is related with: 
+BsmtFinSF1
+************************************
+FullBath is related with: 
+OverallQual
+GrLivArea
+TotRmsAbvGrd
+************************************
+HalfBath is related with: 
+2ndFlrSF
+************************************
+BedroomAbvGr is related with: 
+2ndFlrSF
+GrLivArea
+TotRmsAbvGrd
+************************************
+KitchenQual is related with: 
+ExterQual
+BsmtQual
+************************************
+TotRmsAbvGrd is related with: 
+2ndFlrSF
+GrLivArea
+FullBath
+BedroomAbvGr
+************************************
+GarageYrBlt is related with: 
+YearBuilt
+YearRemodAdd
+Foundation
+************************************
+GarageCars is related with: 
+OverallQual
+YearBuilt
+GarageArea
+************************************
+GarageArea is related with: 
+OverallQual
+GarageCars
+************************************
+GarageQual is related with: 
+GarageCond
+************************************
+GarageCond is related with: 
+GarageQual
+************************************
