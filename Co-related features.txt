@@ -2,29 +2,47 @@
 MSSubClass is related with: 
 BldgType
 ************************************
+MSZoning is related with: 
+************************************
+LotFrontage is related with: 
+************************************
+LotArea is related with: 
+************************************
+Street is related with: 
+************************************
+LotShape is related with: 
+************************************
+LandContour is related with: 
+************************************
+Utilities is related with: 
+************************************
+LotConfig is related with: 
+************************************
+LandSlope is related with: 
+************************************
+Neighborhood is related with: 
+************************************
+Condition1 is related with: 
+************************************
+Condition2 is related with: 
+************************************
 BldgType is related with: 
 MSSubClass
 ************************************
+HouseStyle is related with: 
+************************************
 OverallQual is related with: 
-YearBuilt
-YearRemodAdd
-TotalBsmtSF
-GrLivArea
-FullBath
-GarageCars
-GarageArea
+************************************
+OverallCond is related with: 
 ************************************
 YearBuilt is related with: 
-OverallQual
-YearRemodAdd
-Foundation
 GarageYrBlt
-GarageCars
 ************************************
 YearRemodAdd is related with: 
-OverallQual
-YearBuilt
-GarageYrBlt
+************************************
+RoofStyle is related with: 
+************************************
+RoofMatl is related with: 
 ************************************
 Exterior1st is related with: 
 Exterior2nd
@@ -32,88 +50,111 @@ Exterior2nd
 Exterior2nd is related with: 
 Exterior1st
 ************************************
+MasVnrType is related with: 
+************************************
+MasVnrArea is related with: 
+************************************
 ExterQual is related with: 
-BsmtQual
-KitchenQual
+************************************
+ExterCond is related with: 
 ************************************
 Foundation is related with: 
-YearBuilt
-GarageYrBlt
 ************************************
 BsmtQual is related with: 
-ExterQual
-KitchenQual
+************************************
+BsmtCond is related with: 
+************************************
+BsmtExposure is related with: 
+************************************
+BsmtFinType1 is related with: 
 ************************************
 BsmtFinSF1 is related with: 
-TotalBsmtSF
-BsmtFullBath
+************************************
+BsmtFinType2 is related with: 
+************************************
+BsmtFinSF2 is related with: 
+************************************
+BsmtUnfSF is related with: 
 ************************************
 TotalBsmtSF is related with: 
-OverallQual
-BsmtFinSF1
 1stFlrSF
+************************************
+Heating is related with: 
+************************************
+HeatingQC is related with: 
+************************************
+CentralAir is related with: 
+************************************
+Electrical is related with: 
 ************************************
 1stFlrSF is related with: 
 TotalBsmtSF
-GrLivArea
 ************************************
 2ndFlrSF is related with: 
-GrLivArea
-HalfBath
-BedroomAbvGr
-TotRmsAbvGrd
+************************************
+LowQualFinSF is related with: 
 ************************************
 GrLivArea is related with: 
-OverallQual
-1stFlrSF
-2ndFlrSF
-FullBath
-BedroomAbvGr
 TotRmsAbvGrd
 ************************************
 BsmtFullBath is related with: 
-BsmtFinSF1
+************************************
+BsmtHalfBath is related with: 
 ************************************
 FullBath is related with: 
-OverallQual
-GrLivArea
-TotRmsAbvGrd
 ************************************
 HalfBath is related with: 
-2ndFlrSF
 ************************************
 BedroomAbvGr is related with: 
-2ndFlrSF
-GrLivArea
-TotRmsAbvGrd
+************************************
+KitchenAbvGr is related with: 
 ************************************
 KitchenQual is related with: 
-ExterQual
-BsmtQual
 ************************************
 TotRmsAbvGrd is related with: 
-2ndFlrSF
 GrLivArea
-FullBath
-BedroomAbvGr
+************************************
+Functional is related with: 
+************************************
+Fireplaces is related with: 
+************************************
+GarageType is related with: 
 ************************************
 GarageYrBlt is related with: 
 YearBuilt
-YearRemodAdd
-Foundation
+************************************
+GarageFinish is related with: 
 ************************************
 GarageCars is related with: 
-OverallQual
-YearBuilt
 GarageArea
 ************************************
 GarageArea is related with: 
-OverallQual
 GarageCars
 ************************************
 GarageQual is related with: 
-GarageCond
 ************************************
 GarageCond is related with: 
-GarageQual
 ************************************
+PavedDrive is related with: 
+************************************
+WoodDeckSF is related with: 
+************************************
+OpenPorchSF is related with: 
+************************************
+EnclosedPorch is related with: 
+************************************
+3SsnPorch is related with: 
+************************************
+ScreenPorch is related with: 
+************************************
+PoolArea is related with: 
+************************************
+MiscVal is related with: 
+************************************
+MoSold is related with: 
+************************************
+YrSold is related with: 
+************************************
+SaleType is related with: 
+************************************
+SaleCondition is related with: 
